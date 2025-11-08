@@ -2,7 +2,7 @@
 
 ## Overview
 
-As a cybersecurity analyst collaborating with **Cyblack** Security Operations Center (SOC) team, I conducted an in-depth investigation into a suspicious email flagged by the company’s email gateway on **August 16, 2023**. The email, claiming to originate from the *"Microsoft account team"*, exhibited unusual language and phishing indicators, leading to its automatic quarantine. This project, **SPOOFWATCH**, documents the detailed analysis of the raw email to determine its legitimacy, identify spoofing indicators, and provide actionable recommendations to prevent future phishing attacks.
+As a cybersecurity analyst collaborating with **Cyblack** Security Operations Center (SOC) team, I conducted an in-depth investigation into a suspicious email flagged by the company’s email gateway on **August 16, 2025**. The email, claiming to originate from the *"Microsoft account team"*, exhibited unusual language and phishing indicators, leading to its automatic quarantine. This project, **SPOOFWATCH**, documents the detailed analysis of the raw email to determine its legitimacy, identify spoofing indicators, and provide actionable recommendations to prevent future phishing attacks.
 
 This repository contains the executive summary, methodology, findings, and mitigation strategies derived from the investigation. The analysis confirmed the email as a **spoofed phishing attempt**, and the recommendations aim to strengthen organizational defenses against similar threats.
 
@@ -130,7 +130,7 @@ This project was a collaborative effort with the **Cyblack SOC team**. Special t
 
 ## Contact
 
-For questions or contributions, please contact me here via GitHub.
+For questions or contributions, please contact me via linkedin. link's in my Bio.
 
 ---
 
